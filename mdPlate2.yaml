@@ -1,0 +1,5 @@
+train: mdPlate2/train/images
+val: mdPlate2/valid/images
+
+nc: 2
+names: ['license-plate', 'vehicle']

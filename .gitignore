@@ -1,0 +1,15 @@
+#Mac OS specific
+.DS_Store
+.library
+
+#Python specific
+__pycache__
+
+#Temporary files
+cropped_image.jpg
+current_process.jpg
+yolov8*
+runs
+
+#Unecessary dataset
+datasets/mdPlate2

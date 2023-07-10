@@ -1,0 +1,5 @@
+train: mdPlate/train/images
+val: mdPlate/val/images
+
+names: 
+  0: 'plate'
