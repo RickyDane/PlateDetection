@@ -1,2 +1,1 @@
-# lkwPlateDetection
 # MDPlateDetection
